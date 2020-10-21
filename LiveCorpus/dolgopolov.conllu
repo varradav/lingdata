@@ -31,7 +31,7 @@
 28	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1713.911#1714.16
 29	и	и	CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1714.64#1714.94
 30	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ad1994m#@ad1994m#1715.135#1715.463
-34  как как CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1715.463#1715.791
+31  как как CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1715.463#1715.791
 32	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1715.791#1716.119
 33	чувствую	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1716.119#1716.447
 34	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1716.447#1716.775
