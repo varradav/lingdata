@@ -53,7 +53,7 @@
 50	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1723.28#1723.725
 51	и	и	CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1723.725#1724.17
 52	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1724.75#1725.037
-53	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1725.037#1725.324
+53	странно	странно	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1725.037#1725.324
 54	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1725.324#1725.611
 55	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1725.611#1725.898
 56	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1725.898#1726.185
@@ -129,7 +129,7 @@
 126	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1752.368#1752.591
 127	что	что	SCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1752.591#1752.814
 128	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1752.814#1753.037
-129	нормально	нормальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1753.037#1753.26
+129	нормально	нормально	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1753.037#1753.26
 130	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1753.26#1753.483
 131	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1753.483#1753.706
 132	феминным	феминный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1753.706#1753.929
