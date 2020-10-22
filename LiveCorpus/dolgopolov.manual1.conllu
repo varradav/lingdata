@@ -203,7 +203,7 @@
 200	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1770.968#1771.153
 201	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1771.153#1771.338
 202	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1771.338#1771.523
-203	посмотрите	смотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1771.523#1771.708
+203	посмотрите	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1771.523#1771.708
 204	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1771.708#1771.893
 205	у	у	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#1771.893#1772.078
 206	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@ad1994m#@ad1994m#1772.078#1772.263
@@ -601,7 +601,7 @@
 598	что	что	SCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1912.237#1912.432
 599	женщинам	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1912.655#1913.071
 600	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1913.071#1913.487
-601	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1913.487#1913.903
+601	важно	важно	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1913.487#1913.903
 602	и	и	CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1914.105#1914.493
 603	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1914.493#1914.881
 604	демонстрация	демонстрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1914.881#1915.269
@@ -645,7 +645,7 @@
 642	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1925.322#1925.605
 643	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1925.605#1925.888
 644	как	как	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1925.888#1926.171
-645	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1926.171#1926.454
+645	сложно	сложно	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1926.171#1926.454
 646	другим	другой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1926.454#1926.737
 647	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1926.737#1927.023
 648	и	и	CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1927.221#1927.599
@@ -935,7 +935,7 @@
 932	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#1947.397#1947.561
 933	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#1947.561#1947.725
 934	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#1947.725#1947.889
-935	близко	близкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@yad1986m#@yad1986m#1947.889#1948.053
+935	близко	близко	ADV	_	Degree=Pos	_	_	_	words@yad1986m#@yad1986m#1947.889#1948.053
 936	к	к	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#1948.053#1948.217
 937	правде	правда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#1948.217#1948.381
 938	?	?	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#1948.381#1948.551
