@@ -168,7 +168,7 @@
 165	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1762.761#1763.001
 166	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1763.001#1763.241
 167	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1763.241#1763.481
-168	что	что	PRON	_	Case=Nom	_	_	_	words@ad1994m#@ad1994m#1763.481#1763.721
+168	что	что	SCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1763.481#1763.721
 169	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1763.721#1763.961
 170	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1763.961#1764.201
 171	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1764.201#1764.441
@@ -214,7 +214,7 @@
 211	в	в	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#1773.171#1773.367
 212	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1773.367#1773.563
 213	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1773.563#1773.759
-214	ничего	ничто	PRON	_	Case=Gen	_	_	_	words@ad1994m#@ad1994m#1773.759#1773.955
+214	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1773.759#1773.955
 215	страшного	страшный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1773.955#1774.151
 216	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1774.151#1774.347
 217	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ad1994m#@ad1994m#1774.347#1774.543
@@ -252,7 +252,7 @@
 249	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1784.61#1785.024
 250	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1785.024#1785.438
 251	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1785.438#1785.852
-252	что	что	PRON	_	Case=Acc	_	_	_	words@ad1994m#@ad1994m#1785.852#1786.266
+252	что	что	SCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#1785.852#1786.266
 253	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@ad1994m#@ad1994m#1786.266#1786.68
 254	не	не	PART	_	_	_	_	_	words@ad1994m#@ad1994m#1786.68#1787.094
 255	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1787.094#1787.511
@@ -674,7 +674,7 @@
 671	то	тот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1951.091#1951.294
 672	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1951.294#1951.497
 673	о	о	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#1951.497#1951.7
-674	чём	что	PRON	_	Case=Loc	_	_	_	words@ad1994m#@ad1994m#1951.7#1951.903
+674	чём	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1951.7#1951.903
 675	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ad1994m#@ad1994m#1951.903#1952.117
 676	и	и	PART	_	_	_	_	_	words@ad1994m#@ad1994m#1952.43#1952.683
 677	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1952.683#1952.936
@@ -818,7 +818,7 @@
 815	Путина	Путин	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2003.3#2003.524
 816	про	про	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#2003.779#2004.045
 817	Путина	Путин	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2004.045#2004.311
-818	никто	никто	PRON	_	Case=Nom	_	_	_	words@ad1994m#@ad1994m#2004.311#2004.577
+818	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2004.311#2004.577
 819	не	не	PART	_	_	_	_	_	words@ad1994m#@ad1994m#2004.577#2004.843
 820	шутил	шутить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#2004.843#2005.109
 821	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#2005.109#2005.375
