@@ -616,7 +616,7 @@
 613	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@svd1978m#@svd1978m#377.615#377.821
 614	и	и	CCONJ	_	_	_	_	_	words@svd1978m#@svd1978m#377.821#378.027
 615	там	там	ADV	_	Degree=Pos	_	_	_	words@svd1978m#@svd1978m#378.027#378.233
-616	что-то	что-то	PRON	_ Animacy=Inam|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@svd1978m#@svd1978m#378.233#378.439
+616	что-то	что-то	PRON _ Animacy=Inam|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@svd1978m#@svd1978m#378.233#378.439
 617	через	через	ADP	_	_	_	_	_	words@svd1978m#@svd1978m#378.439#378.645
 618	три	три	NUM	_	Animacy=Inan|Case=Acc	_	_	_	words@svd1978m#@svd1978m#378.645#378.851
 619	что	что	PRON	_	Animacy=Inam|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@svd1978m#@svd1978m#378.851#379.057
@@ -660,7 +660,7 @@
 657	/	/	PUNCT	_	_	_	_	_	words@svd1978m#@svd1978m#388.362#388.604
 658	а	а	CCONJ	_	_	_	_	_	words@svd1978m#@svd1978m#388.604#388.846
 659	через	через	ADP	_	_	_	_	_	words@svd1978m#@svd1978m#388.846#389.088
-660	тээ	тээ	X	_`_`_	_	_	words@svd1978m#@svd1978m#389.088#389.33
+660	тээ	тээ	X	_	_	_	_	_ 	words@svd1978m#@svd1978m#389.088#389.33
 661	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@svd1978m#@svd1978m#389.33#389.572
 662	выйдет	выйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@svd1978m#@svd1978m#389.572#389.814
 663	статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@svd1978m#@svd1978m#389.814#390.056
@@ -874,7 +874,7 @@
 871	вот	вот	PART	_	_	_	_	_	words@svd1978m#@svd1978m#453.021#453.258
 872	/	/	PUNCT	_	_	_	_	_	words@svd1978m#@svd1978m#453.258#453.495
 873	ну	ну	PART	_	_	_	_	_	words@svd1978m#@svd1978m#453.495#453.732
-874	можно	можно	VERB _ _ _ _ _	words@svd1978m#@svd1978m#453.732#453.969
+874	можно	можно	VERB _	_	_	_	_	words@svd1978m#@svd1978m#453.732#453.969
 875	конечно	конечно	ADV	_	Degree=Pos	_	_	_	words@svd1978m#@svd1978m#453.969#454.206
 876	съесть	съесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@svd1978m#@svd1978m#454.206#454.443
 877	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@svd1978m#@svd1978m#454.443#454.68
@@ -1061,7 +1061,7 @@
 1058	/	/	PUNCT	_	_	_	_	_	words@ab1983m#@ab1983m#241.465#241.747
 1059	и	и	CCONJ	_	_	_	_	_	words@ab1983m#@ab1983m#241.747#242.029
 1060	недооценивают	недооценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ab1983m#@ab1983m#242.029#242.311
-1061	ее она	PRON	_ Animacy=Inam|Case=Gen|Number=Sing	_	_	_	words@ab1983m#@ab1983m#242.311#242.593
+1061	ее она	PRON	_   Animacy=Inam|Case=Gen|Number=Sing	_	_	_	words@ab1983m#@ab1983m#242.311#242.593
 1062	разнообразие	разнообразие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ab1983m#@ab1983m#242.593#242.875
 1063	/	/	PUNCT	_	_	_	_	_	words@ab1983m#@ab1983m#242.875#243.157
 1064	а	а	CCONJ	_	_	_	_	_	words@ab1983m#@ab1983m#243.157#243.439
@@ -1142,7 +1142,7 @@
 1139	рады	рад	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	words@ab1983m#@ab1983m#310.758#311.045
 1140	издавать	издавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ab1983m#@ab1983m#311.045#311.332
 1141	/	/	PUNCT	_	_	_	_	_	words@ab1983m#@ab1983m#311.332#311.619
-1142	бай	байка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur_	_	_	words@ab1983m#@ab1983m#311.619#311.906
+1142	бай	байка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@ab1983m#@ab1983m#311.619#311.906
 1143	байки	байка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@ab1983m#@ab1983m#311.906#312.193
 1144	из	из	ADP	_	_	_	_	_	words@ab1983m#@ab1983m#312.193#312.48
 1145	грота	грот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ab1983m#@ab1983m#312.48#312.767
@@ -1252,7 +1252,7 @@
 1249	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	words@ab1983m#@ab1983m#398.177#398.591
 1250	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ab1983m#@ab1983m#398.591#399.005
 1251	или	или	CCONJ	_	_	_	_	_	words@ab1983m#@ab1983m#399.005#399.419
-1252	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing _	_	_	words@ab1983m#@ab1983m#399.419#399.833
+1252	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ab1983m#@ab1983m#399.419#399.833
 1253	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2	_	_	_	words@ab1983m#@ab1983m#399.833#400.247
 1254	/	/	PUNCT	_	_	_	_	_	words@ab1983m#@ab1983m#400.247#400.661
 1255	цепляет	цеплять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ab1983m#@ab1983m#400.661#401.075
