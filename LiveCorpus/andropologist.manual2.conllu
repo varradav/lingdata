@@ -1252,7 +1252,7 @@
 1249	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	words@ab1983m#@ab1983m#398.177#398.591
 1250	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ab1983m#@ab1983m#398.591#399.005
 1251	или	или	CCONJ	_	_	_	_	_	words@ab1983m#@ab1983m#399.005#399.419
-1252	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing _	_	_	words@ab1983m#@ab1983m#399.419#399.833
+1252	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing  _ _ _	words@ab1983m#@ab1983m#399.419#399.833
 1253	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2	_	_	_	words@ab1983m#@ab1983m#399.833#400.247
 1254	/	/	PUNCT	_	_	_	_	_	words@ab1983m#@ab1983m#400.247#400.661
 1255	цепляет	цеплять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ab1983m#@ab1983m#400.661#401.075
