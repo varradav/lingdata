@@ -96,7 +96,7 @@
 93	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1739.176#1739.584
 94	вайнеры	вайнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1739.584#1739.992
 95	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1739.992#1740.4
-96	которые	который	PRON	_	Case=Nom|Number=Plur	_	_	words@ad1994m#@ad1994m#1740.4#1740.808
+96	которые	который	PRON	_	Case=Nom|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1740.4#1740.808
 97	делают	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1740.808#1741.216
 98	скетчи	скетч	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@ad1994m#@ad1994m#1741.216#1741.624
 99	в	в	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#1741.624#1742.032
@@ -265,7 +265,7 @@
 262	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ad1994m#@ad1994m#1789.488#1789.759
 263	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ad1994m#@ad1994m#1789.759#1790.03
 264	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1790.03#1790.301
-265	это	это	PART	_   _ 	_	_	_	words@ad1994m#@ad1994m#1790.301#1790.572
+265	это	это	PART	_	_	_	_	_	words@ad1994m#@ad1994m#1790.301#1790.572
 266	лучший	лучший	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1791.195#1791.555
 267	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1791.555#1791.915
 268	снять	снять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1791.915#1792.275
@@ -378,7 +378,7 @@
 375	так	так	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1836.941#1837.114
 376	тяжело	тяжелo	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#1837.114#1837.287
 377	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1837.287#1837.465
-378	эй	эй	INTJ	_   _	_	_	_	words@ad1994m#@ad1994m#1837.608#1837.848
+378	эй	эй	INTJ	_	_	_	_	_	words@ad1994m#@ad1994m#1837.608#1837.848
 379	!	!	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1837.848#1838.088
 380	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@ad1994m#@ad1994m#1838.228#1838.604
 381	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1838.604#1838.98
@@ -524,7 +524,7 @@
 521	Маяковский	Маяковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1891.137#1891.454
 522	менял	менять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ad1994m#@ad1994m#1891.454#1891.771
 523	русский	русский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1891.771#1892.088
-524	мяз	мяз	X   _	_	_	_	_	words@ad1994m#@ad1994m#1892.088#1892.405
+524	мяз	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1892.088#1892.405
 525	/	/	PUNCT	_	_	_	_	_	words@ad1994m#@ad1994m#1892.405#1892.722
 526	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1892.722#1893.04
 527	русский	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#1893.204#1893.457
@@ -837,7 +837,7 @@
 834	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ad1994m#@ad1994m#2008.127#2008.337
 835	шутки	шутка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ad1994m#@ad1994m#2008.337#2008.547
 836	про	про	ADP	_	_	_	_	_	words@ad1994m#@ad1994m#2008.547#2008.757
-837 Путина Путин PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2008.757#2008.971
+837	Путина	Путин	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2008.757#2008.971
 838	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ad1994m#@ad1994m#2009.248#2009.544
 839	либо	либо	CCONJ	_	_	_	_	_	words@ad1994m#@ad1994m#2009.544#2009.84
 840	мимо	мимо	ADV	_	Degree=Pos	_	_	_	words@ad1994m#@ad1994m#2009.84#2010.136
